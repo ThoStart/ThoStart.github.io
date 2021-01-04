@@ -2,21 +2,26 @@
 
 ---
 
-### Category Name 1 
+### Degrees
 
-[Project 1 Title](/sample_page)
+- Msc. Computational Sciences
+- Bsc. Biomedical Sciences
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Degrees
+### Skills
 
+---
+
+---
+
+### Projects
 
 ---
 
 ### Side Activities
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
