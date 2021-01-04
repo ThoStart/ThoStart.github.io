@@ -13,11 +13,11 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences i got 
 
 ### Education & Skills
 - Education:
- - Msc. Computational Sciences
-  - During my Msc. I focussed on Complex System Simulations and Data Mining techniques.
- - Bsc. Biomedical Sciences
- - Kaggle Course Machine Learning
- - Sailing Instructor 4 (CWO)
+  - Msc. Computational Sciences
+   - During my Msc. I focussed on Complex System Simulations and Data Mining techniques.
+  - Bsc. Biomedical Sciences
+  - Kaggle Course Machine Learning
+  - Sailing Instructor 4 (CWO)
  
 - Programming languages: 
   - Python (and Cython)
