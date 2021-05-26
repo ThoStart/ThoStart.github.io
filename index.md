@@ -37,7 +37,7 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences I got 
 - Modelling Value Networks on Lattice Networks
 During my MSc. Computational Sciences I investigated the stability of different value network configurations in a larger network.
 
-<img src="images/global.gif?raw=true"/>
+<img src="images/Global.gif"/>
 <!-- <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />  -->
 
 
