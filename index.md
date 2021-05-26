@@ -29,6 +29,7 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences i got 
   - Complex System Simulations
   - Statistics
   - Data Mining Techniques
+
 ---
 
 ### Projects
