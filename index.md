@@ -6,7 +6,7 @@
 
 I graduated the Msc. Computational Sciences at the University of Amsterdam in 2021 with a GPA of 7.7 (out of 10). Furthermore I did a bachelor in Biomedical Sciences. 
 
-Since I started a minor in programming during my Bsc. Biomedical Sciences i got intrigued by Data Science and the impact of data-driven choices. This is why I taught myself to program and started a Msc. in Computational Sciences. During this master I focussed on Network Modelling, Data Mining, Complex System Simualtion and Stochastic Similations. 
+Since I started a minor in programming during my Bsc. Biomedical Sciences I got intrigued by Data Science and the impact of data-driven choices. This is why I taught myself to program and started a Msc. in Computational Sciences. During this master I focussed on Network Modelling, Data Mining, Complex System Simualtion and Stochastic Similations. 
 
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 ---
@@ -19,7 +19,7 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences i got 
   - Sailing Instructor 4 (CWO)
  
 - Programming languages: 
-  - Python (and Cython)
+  - Python (+ Cython)
   - SQL
   - R
   
@@ -33,6 +33,15 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences i got 
 ---
 
 ### Projects
+
+- Modelling Value Networks on Lattice Networks
+During my MSc. Computational Sciences I investigated the stability of different value network configurations in a larger network.
+
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" /> 
+
+
+- NLP Kaggle project
 
 ---
 
