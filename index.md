@@ -15,8 +15,6 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences I got 
 - Education:
   - Msc. Computational Sciences
   - Bsc. Biomedical Sciences
-  - Kaggle Course Machine Learning
-  - Sailing Instructor 4 (CWO)
  
 - Programming languages 
 <img src="images/newfig-2.png" width="600" height="200"/>
