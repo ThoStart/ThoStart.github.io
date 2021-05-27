@@ -21,6 +21,7 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences I got 
 - Skills: 
 <img src="images/newfig-2.png" width="600" height="170"/>
     - Other programming languages: SQL, R and HTML
+  
     - Monte Carlo Methods, Markov Chains and Poisson Processes
     - Complex System Simulations
     - Analytic Thinking
