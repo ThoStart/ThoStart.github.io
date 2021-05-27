@@ -14,7 +14,7 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences I got 
 ### Education & Skills
 - Education:
   - <img src="images/203-2031760_png-file-svg-pink-education-icon-png.png" width="40" height="28"/> Msc. in Computational Sciences, 2021 
-    Faculty of Life Sciences University of Amsterdam
+    Graduate School of Informatics, University of Amsterdam
   - <img src="images/203-2031760_png-file-svg-pink-education-icon-png.png" width="40" height="28"/> Bsc. in Biomedical Sciences, 2017
     Faculty of Life Sciences University of Amsterdam
  
@@ -37,9 +37,6 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences I got 
 During my MSc. Computational Sciences I investigated the stability of different value network configurations in a larger network.
 <img src="images/Global.gif" width="200" height="200"/> <img src="images/Local.gif" width="200" height="200"/>
 <!-- <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />  -->
-
-
-- NLP Kaggle project
 
 ---
 
