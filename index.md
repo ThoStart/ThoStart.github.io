@@ -18,17 +18,14 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences I got 
   - <img src="images/203-2031760_png-file-svg-pink-education-icon-png.png" width="40" height="28"/> Bsc. in Biomedical Sciences, 2017
     Faculty of Life Sciences University of Amsterdam
  
-- Programming languages 
+- Skills 
 <img src="images/newfig-2.png" width="600" height="170"/>
   - Other programming languages: SQL, R and HTML
-  
-- Skills
-  - Analytic Thinking
   - Monte Carlo Methods, Markov Chains and Poisson Processes
   - Complex System Simulations
+  - Analytic Thinking
   - Statistics
   - Data Mining Techniques
-
 ---
 
 ### Projects
