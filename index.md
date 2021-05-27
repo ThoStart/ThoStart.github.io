@@ -23,7 +23,7 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences I got 
   - SQL
   - R
 
-<img src="images/newfig.png" width="1000" height="500"/>
+<img src="images/newfig.png" width="700" height="400"/>
   
 - Skills
   - Analytic Thinking
