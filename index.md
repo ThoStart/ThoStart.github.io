@@ -13,9 +13,9 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences I got 
 
 ### Education & Skills
 - Education:
-  - <img src="images/203-2031760_png-file-svg-pink-education-icon-png.png" width="40" height="28"/> Msc. in Computational Sciences, 2021 
+  - <img src="images/203-2031760_png-file-svg-pink-education-icon-png.png" width="20" height="14"/> Msc. in Computational Sciences, 2021 
     Graduate School of Informatics, University of Amsterdam
-  - <img src="images/203-2031760_png-file-svg-pink-education-icon-png.png" width="40" height="28"/> Bsc. in Biomedical Sciences, 2017
+  - <img src="images/203-2031760_png-file-svg-pink-education-icon-png.png" width="20" height="14"/> Bsc. in Biomedical Sciences, 2017
     Faculty of Life Sciences University of Amsterdam
  
 - Skills: 
