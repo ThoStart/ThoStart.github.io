@@ -17,7 +17,7 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences I got 
   - Bsc. Biomedical Sciences
  
 - Programming languages 
-<img src="images/newfig-2.png" width="600" height="200"/>
+<img src="images/newfig-2.png" width="576" height="200"/>
  - SQL, R and HTML
   
 - Skills
