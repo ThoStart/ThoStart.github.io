@@ -13,12 +13,12 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences I got 
 
 ### Education & Skills
 - Education:
- - <img src="images/203-2031760_png-file-svg-pink-education-icon-png.png" width="50" height="35"/> Msc. Computational Sciences
- - <img src="images/203-2031760_png-file-svg-pink-education-icon-png.png" width="50" height="35"/> Bsc. Biomedical Sciences
+  - <img src="images/203-2031760_png-file-svg-pink-education-icon-png.png" width="50" height="35"/> Msc. Computational Sciences
+  - <img src="images/203-2031760_png-file-svg-pink-education-icon-png.png" width="50" height="35"/> Bsc. Biomedical Sciences
  
 - Programming languages 
 <img src="images/newfig-2.png" width="600" height="170"/>
- - SQL, R and HTML
+  - SQL, R and HTML
   
 - Skills
   - Analytic Thinking
