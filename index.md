@@ -20,7 +20,7 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences I got 
  
 - Programming languages 
 <img src="images/newfig-2.png" width="600" height="170"/>
-  - SQL, R and HTML
+  - Other programming languages: SQL, R and HTML
   
 - Skills
   - Analytic Thinking
