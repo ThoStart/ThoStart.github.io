@@ -22,7 +22,7 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences I got 
   - Python (+ Cython)
   - SQL
   - R
-<img src="images/python_logo.jpg" width="200" height="200"/> <img src="images/cython_logo.png" width="200" height="200"/> <img src="images/data_logo.jpg" width="200" height="200"/>
+<img src="images/pngaaa.com-619282.png" width="150" height="150"/> <img src="images/cython_logo.png" width="150" height="150"/>
   
 - Skills
   - Analytic Thinking
