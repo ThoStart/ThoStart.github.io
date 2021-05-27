@@ -3,8 +3,6 @@ logo: "/images/circle-cropped.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Computational Scientist 
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/thomas-start-ab65314b/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
