@@ -19,11 +19,11 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences I got 
   - Sailing Instructor 4 (CWO)
  
 - Programming languages: 
-  - Python (+ Cython)
+<img src="images/newfig-2.png" width="600" height="200"/>
+  - Python
+  - Cython
   - SQL
   - R
-
-<img src="images/newfig-2.png" width="600" height="200"/>
   
 - Skills
   - Analytic Thinking
