@@ -13,8 +13,8 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences I got 
 
 ### Education & Skills
 - Education:
-  - Msc. Computational Sciences
-  - Bsc. Biomedical Sciences
+<img src="203-2031760_png-file-svg-pink-education-icon-png.png" width="600" height="170"/> Msc. Computational Sciences
+<img src="203-2031760_png-file-svg-pink-education-icon-png.png" width="600" height="170"/> Bsc. Biomedical Sciences
  
 - Programming languages 
 <img src="images/newfig-2.png" width="600" height="170"/>
