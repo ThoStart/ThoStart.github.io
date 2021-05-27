@@ -26,6 +26,7 @@ Since I started a minor in programming during my Bsc. Biomedical Sciences I got 
     - Analytic Thinking
     - Statistics
     - Data Mining Techniques
+    
 ---
 
 ### Projects
